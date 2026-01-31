@@ -1,7 +1,9 @@
 
 <h1 align="center">DT-Ops — Digital Twin Operations Simulator</h1>
 <p align="center">
-  <img src="https://github.com/atsuvovor/DT-Ops/blob/main/images/DT-Ops.png">
+  <img src="https://github.com/atsuvovor/DT-Ops/blob/main/images/DT-Ops.png"
+     alt="Centered Image" 
+       style="width: 70%; height: auto;">
 </p>
 
 
