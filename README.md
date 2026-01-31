@@ -1,10 +1,9 @@
 # DT-Ops — Digital Twin Operations Simulator
 
-<p>
-  <img src="https://github.com/atsuvovor/cv-rare-event-analytics/blob/main/images/RareEventComputerVisionAnalyticsPlatform.png" 
-       alt="Centered Image" 
-       style="width: 40%; height: auto;">
+<p align="center">
+  <img src="https://github.com/atsuvovor/projects_portfolio.github.io/blob/main/UDI_AIIF_logo3.png">
 </p>
+
 
 ## Purpose
 DT-Ops simulates operational workflows and security scenarios, enabling risk modeling and AI-driven scenario optimization.
