@@ -1,7 +1,7 @@
 # DT-Ops — Digital Twin Operations Simulator
 
 <p align="center">
-  <img src="https://github.com/atsuvovor/projects_portfolio.github.io/blob/main/UDI_AIIF_logo3.png">
+  <img src="https://github.com/atsuvovor/DT-Ops/blob/main/images/DT-Ops.png">
 </p>
 
 
